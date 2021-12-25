@@ -1,4 +1,4 @@
-# Natural Language Processing Movie Sentiment Analysis PartIII
+# Natural Language Processing Movie Sentiment Analysis (PartIII)
 
 # Introduction
 
@@ -16,6 +16,9 @@ Stemming is always restricted to trimming the word to a stem, so “was” becom
 # Latent Dirichlet Allocation
 
 Intuitively, the LDA model tries to find groups of words (the topics) that appear together frequently. LDA also requires that each document can be understood as a “mixture” of a subset of the topics. It is important to understand that for the machine learning model a “topic” might not be what we would normally call a topic in everyday speech, but that it resembles more the components extracted by PCA or NMF, which might or might not have a semantic meaning.
+
+![image](https://user-images.githubusercontent.com/53411455/147393160-7deb5d85-7854-404d-9be7-14607c1f71ef.png)
+
 
 # Conclusion
 
