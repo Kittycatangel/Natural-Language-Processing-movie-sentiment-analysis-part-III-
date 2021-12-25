@@ -1,4 +1,4 @@
-# Natural-Language-Processing-movie-sentiment-analysis-part-III-
+# Natural Language Processing Movie Sentiment Analysis PartIII
 
 # Introduction
 
